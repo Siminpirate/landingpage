@@ -2,14 +2,14 @@
 particlesJS("particles-js", {
   "particles": {
     "number": {
-      "value": 50,
+      "value": 30,
       "density": {
         "enable": true,
         "value_area": 700 } },
 
 
     "color": {
-      "value": "#FFFFFF" },
+      "value": "#000000" },
 
     "shape": {
       "type": "circle",
@@ -43,7 +43,7 @@ particlesJS("particles-js", {
 
     "line_linked": {
       "enable": true,
-      "distance": 180,
+      "distance": 150,
       "color": "#000000",
       "opacity": 0.4,
       "width": 1 },
@@ -103,4 +103,3 @@ particlesJS("particles-js", {
 
 
   "retina_detect": true });
-}
